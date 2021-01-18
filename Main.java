@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 class Main {
   public static void main(String[] args) {
-    List<Integer> arr = Arrays.asList(12, 2,1,15, 2, 4);
+    List<Integer> arr = Arrays.asList(12, 2, 1, 15, 2, 4);
 
     System.out.println(maxValue(arr));
   }
